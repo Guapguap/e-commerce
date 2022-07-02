@@ -8,6 +8,9 @@ Backend for an e-commerce site. Utilizes Express, Sequelize, and MySQL.
 # Demo Usage: 
 
 
+https://user-images.githubusercontent.com/102185104/176987815-fe65f68a-6046-494c-9095-b5936c51667b.mp4
+
+
 https://user-images.githubusercontent.com/102185104/176987150-4d922621-9750-46ff-b3b8-79b37fdb3d5c.mp4
 
 
